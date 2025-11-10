@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Challenge Me]]"
 topics:
 created: 2025-10-05, 22:00
 ---

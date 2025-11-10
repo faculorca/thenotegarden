@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
 topics:
 created: 
 ---

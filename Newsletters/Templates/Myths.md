@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Challenge Me]]"
 topics:
 created: 
 ---

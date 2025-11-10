@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[One-liners]]"
+  - "[[LinkedIn]]"
+  - "[[Empathize w Me]]"
 topics:
 created: 
 ---

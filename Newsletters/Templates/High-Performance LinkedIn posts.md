@@ -3,6 +3,9 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Tip]]"
+  - "[[Tweet]]"
+  - "[[LinkedIn]]"
+  - "[[Challenge Me]]"
 topics:
 created: 
 ---

@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
 topics:
 created: 2025-10-05, 22:54
 ---

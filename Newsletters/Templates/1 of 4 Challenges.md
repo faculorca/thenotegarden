@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[One-liners]]"
+  - "[[Tweet]]"
+  - "[[Educate Me]]"
 topics:
 created: 
 ---

@@ -3,6 +3,7 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[Challenge Me]]"
 topics:
 created: {{date:YYYY-MM-DD}}, {{time}}
 ---

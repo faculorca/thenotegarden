@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Empathize w Me]]"
 topics:
 created: 
 ---

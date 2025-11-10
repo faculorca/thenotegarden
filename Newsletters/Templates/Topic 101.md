@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Tip]]"
+  - "[[Tweet]]"
+  - "[[Educate Me]]"
 topics:
 created: 
 ---

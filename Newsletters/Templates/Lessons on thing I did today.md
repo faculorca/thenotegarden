@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[EducateMe]]"
+  - "[[Educate Me]]"
 topics:
 created: 2025-10-02, 21:14
 ---

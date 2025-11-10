@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[One-liners]]"
+  - "[[ChallengeMe]]"
+  - "[[Challenge Me]]"
 topics:
 created: 2025-10-02, 21:19
 ---

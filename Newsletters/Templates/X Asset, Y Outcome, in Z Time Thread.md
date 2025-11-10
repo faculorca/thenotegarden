@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Twitter Threads]]"
+  - "[[Thread]]"
+  - "[[Educate Me]]"
 topics:
 created: 
 ---

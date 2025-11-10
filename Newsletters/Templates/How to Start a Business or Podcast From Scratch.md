@@ -3,6 +3,7 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Tip]]"
+  - "[[Educate Me]]"
 topics:
 created: 2025-10-20
 ---

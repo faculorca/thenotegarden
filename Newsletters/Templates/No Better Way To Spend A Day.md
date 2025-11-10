@@ -3,6 +3,8 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Drawing-photos]]"
+  - "[[LinkedIn]]"
+  - "[[Entertain Me]]"
 topics:
 created: 
 ---

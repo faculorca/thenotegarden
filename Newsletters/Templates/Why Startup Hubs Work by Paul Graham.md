@@ -3,6 +3,7 @@ categories:
   - "[[Content Templates]]"
 content type:
   - "[[Observations]]"
+  - "[[Educate Me]]"
 topics:
 created: 
 ---
