@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 In [Year], I was stuck in [Negative State]. But today?

@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 ## 3 TED Talks You Have To Watch To Learn About [Topic]

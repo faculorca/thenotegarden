@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 ## [X] Tips So You Never [Mistake] Again

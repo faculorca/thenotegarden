@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 My simple [X]-step [Saturday/Sunday] routine (steal this to [Positive Outcome You Get From This]):

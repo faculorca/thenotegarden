@@ -1,10 +1,11 @@
 ---
-date: 2025-10-05, 23:14
-tags:
-  - ContentTemplate
-  - thread
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 2025-10-05, 23:14
 ---
-
 ```
 [_BookMainTitle_]
 

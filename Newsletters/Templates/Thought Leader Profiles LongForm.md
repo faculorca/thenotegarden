@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 ## The Untold Story Of How {ThoughtLeader} Created {Creation} And Became {Status}

@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 ## The {X}-Step Strategy That Turned {Name} Into The {Status} Of {Topic}

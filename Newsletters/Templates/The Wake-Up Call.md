@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 [Hook: Setting the Scene - 3 lines max, including blank lines]

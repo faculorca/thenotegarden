@@ -1,10 +1,11 @@
 ---
-date: 2025-10-05, 23:08
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 2025-10-05, 23:08
 ---
-
 ```
 The most [_Status_] [_Person/Company_] of the last [_X_] [_Time_] is [_Name_].
 

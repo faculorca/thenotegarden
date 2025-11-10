@@ -1,6 +1,10 @@
 ---
-tags:
-  - prompt
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 You will work as a transcriptor and file orderer.

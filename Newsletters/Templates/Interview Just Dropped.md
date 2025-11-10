@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 [Famous Interviewer] just dropped an interview with [Famouns Person].

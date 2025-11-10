@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 Every [week/month/year], I sit down and reflect for [X] minutes.

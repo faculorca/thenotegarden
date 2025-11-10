@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 My secret weapon as a [Role/Profession]:

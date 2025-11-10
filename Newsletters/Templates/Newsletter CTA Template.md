@@ -1,6 +1,10 @@
 ---
-tags:
-  - ContentTemplate
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 ## Newsletter CTA Template

@@ -1,9 +1,10 @@
 ---
-tags:
-  - tweet
-  - LinkedIn
-templatized:
-category:
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 Your dream doesn't die all at once.  

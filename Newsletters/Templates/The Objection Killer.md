@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 I work with many [Target Audience] who have this one fear:

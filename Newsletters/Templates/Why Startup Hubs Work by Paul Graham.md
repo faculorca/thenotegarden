@@ -1,7 +1,10 @@
 ---
-tags:
-  - referenceNote
-author: Paul Graham
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
  p3 | death the default for startups, and most town don’t save them. Is not that some place are startup killers. It’s best to think that all startups are al poisoned and there’s a few places who being sprayed with the antidote.
 

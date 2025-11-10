@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 A MasterClass you don't want to miss:

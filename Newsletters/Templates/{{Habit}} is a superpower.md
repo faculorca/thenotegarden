@@ -1,10 +1,11 @@
 ---
-date: 2025-10-02, 21:38
-tags:
-  - ContentTemplate
-  - EducateMe
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+topics:
+created: 2025-10-02, 21:38
 ---
-
 ```
 {{Habit}} is a superpower
 

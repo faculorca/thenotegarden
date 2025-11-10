@@ -1,8 +1,10 @@
 ---
-date: 2025-10-02, 21:06
-tags:
-  - ContentTemplate
-  - thread
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Twitter Threads]]"
+topics:
+created: 2025-10-02, 21:06
 ---
 ```
 This is {{ImportantPerson}}.

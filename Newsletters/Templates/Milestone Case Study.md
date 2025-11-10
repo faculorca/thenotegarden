@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 My [Outcome Your Product/Service Creates], [Product Name], just hit [Milestone - Subscribers, Customers, etc].

@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - thread
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Twitter Threads]]"
+topics:
+created: 
 ---
 ```
 A [_ValuableThing_] is a massive asset.

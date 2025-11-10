@@ -1,10 +1,11 @@
 ---
-date: 2025-10-02, 21:18
-tags:
-  - ContentTemplate
-  - ChallengeMe
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+topics:
+created: 2025-10-02, 21:18
 ---
-
 ```
 {{Thing}} is hard.
 

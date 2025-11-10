@@ -1,10 +1,11 @@
 ---
-date: 2025-10-05, 22:53
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 2025-10-05, 22:53
 ---
-
 ```
 ## Want To Master {Topic}? Use These {X}{Topic}{Techniques} To Achieve {Outcome}
 

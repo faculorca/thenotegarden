@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 If you enjoyed this Thread, you’ll love this one on [_Topic_]:

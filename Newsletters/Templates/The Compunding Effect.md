@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - tweet
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+topics:
+created: 
 ---
 ```
 Even if you are [_Obstacle_], you can still:

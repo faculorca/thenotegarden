@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+topics:
+created: 
 ---
 ```
 Tools for [Outcome], ranked:

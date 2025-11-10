@@ -1,10 +1,11 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
-date: 2025-10-05, 22:00
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 2025-10-05, 22:00
 ---
-
 ```
 In your chosen category, share one commonly held belief most people think is true (but is actually false/wrong/outdated/misunderstood/etc.).
 

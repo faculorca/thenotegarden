@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+topics:
+created: 
 ---
 ```
 This 1 simple time management tip has helped me [_Outcome_] every [_Time Period_] for [_X_]+ [_Time Period_] in a row:

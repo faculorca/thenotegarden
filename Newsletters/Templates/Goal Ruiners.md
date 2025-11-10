@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - tweet
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 Things that ruin [_Goal_]:

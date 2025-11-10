@@ -1,10 +1,11 @@
 ---
-date: 2025-10-05, 23:08
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 2025-10-05, 23:08
 ---
-
 ```
 While no one was looking, [_ThoughtLeader_] created [_Creation_], [_Description_] [_Status_].
 

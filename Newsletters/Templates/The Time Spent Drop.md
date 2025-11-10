@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 Last week, I spent [_X_] hours creating [_Asset_] to help [_Target Audience_] [_Big Outcome_]:

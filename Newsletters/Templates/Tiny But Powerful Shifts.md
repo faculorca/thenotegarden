@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+topics:
+created: 
 ---
 ```
 ## {X} Tiny (But Powerful) Mental Shifts To {Outcome} (Even If You Think You've Tried Everything)

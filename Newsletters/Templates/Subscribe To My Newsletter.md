@@ -1,7 +1,10 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+topics:
+created: 
 ---
 ```
 If you like posts like this, you might enjoy my weekly newsletter, [_Newsletter Name_].
