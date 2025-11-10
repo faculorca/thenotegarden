@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.hasTag("ContentTemplate")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tags
+  - type: table
+    name: Long-Form
+    filters:
+      and:
+        - file.tags.contains("LongForm")
+    order:
+      - file.name
+      - tags

@@ -1,0 +1,14 @@
+filters:
+  and:
+    - categories.contains(link("Zettelkasten"))
+    - '!file.name.contains("Template")'
+    - type.contains(link("Reference Note"))
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - author
+    image: note.image
+    cardSize: 190
+    imageAspectRatio: 0.6

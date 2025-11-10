@@ -1,0 +1,75 @@
+- [[2025-11-05]] 4:12 PM — Synced 887 highlights from 62 documents.
+    - 3 highlights from Revisiting “The 4-Hour Workweek”
+    - 1 highlights from High Agency in 30 Minutes - George Mack
+    - 1 highlights from From Zero to $60K on SUBSTACK: The Beginner’s Guide to Growing + Monetizing a Newsletter That Pays You Monthly
+    - 4 highlights from In 2023, I Convinced @Thedankoe to Be My Cofounder On...
+    - 4 highlights from Sci-Fi Writer Andy Weir Doesn't Love Writing | Re:Thinking With Adam Grant
+    - 9 highlights from The Best One-Person Business For Smart People (2025)
+    - 6 highlights from Second Brains Are a Lie
+    - 12 highlights from [Expires Soon] 4 Prompts to Build a $100,000 Writing Business Free Masterclass
+    - 7 highlights from Don't Be Such a Scientist
+    - 5 highlights from Lean Writing Method: How To Expand Short-Form Content Into Longer-Form Assets
+    - 7 highlights from Creator Quick Start Course
+    - 1 highlights from What to Build From 0 to 10,000 Followers
+    - 8 highlights from How to Find Your (Profitable) Niche
+    - 1 highlights from Linking Your Thinking Workshop
+    - 1 highlights from My Little One-Person Business Does ~$189k/Mo in Revenue
+    - 10 highlights from Twitter Hates LinkedIn
+    - 8 highlights from The Collector’s Fallacy
+    - 4 highlights from The Death of Thoughtful Creation
+    - 5 highlights from Zettelkasten as a Coping Mechanism
+    - 12 highlights from I Deleted My Second Brain
+    - 4 highlights from Charlie Munger: Adding Mental Tools to Your Toolbox
+    - 8 highlights from A Minimalist Approach to Note-Taking
+    - 18 highlights from Your Brain Is Lying to You
+    - 1 highlights from Avoiding Writer’s Blocks: How I Write My Papers on Paper
+    - 45 highlights from My Complete $10M Journey
+    - 21 highlights from The Practice: Shipping Creative Work
+    - 15 highlights from How to Build a Better Writing Habit
+    - 4 highlights from Creator Flywheels – The Operating System for Your Business
+    - 1 highlights from Obsidian: The King of Learning Tools
+    - 1 highlights from The Art & Business of Ghostwriting: How to Make $10,000+ Per Month Writing for Other People Online
+    - 9 highlights from 7-Step LinkedIn Marketing Strategy for 430K+ Followers
+    - 14 highlights from How to Build Your Personal Brand on LinkedIn
+    - 1 highlights from SEO for Solopreneurs 101: A Beginner’s Guide
+    - 5 highlights from My Content Matrix
+    - 9 highlights from How to Do Great Work
+    - 1 highlights from Portable, Low-Cost, Desktop Microscope
+    - 5 highlights from What to Do
+    - 1 highlights from Give Me 46 Minutes and I'll 10x Your LinkedIn Reach
+    - 1 highlights from Poor Charlie's Almanack_ the Wit and Wisdom of Charles T. Munger
+    - 7 highlights from How to Build an Audience
+    - 15 highlights from The Personal Branding Guide: What It Is, Why It’s Important And
+    - 11 highlights from Branding for Solopreneurs 101
+    - 6 highlights from Purple Cow
+    - 14 highlights from Rework
+    - 19 highlights from How to Convince Investors
+    - 7 highlights from Morgan Housel: How to Master Writing - By David Perell
+    - 46 highlights from Scientific Advertising
+    - 4 highlights from $500K Case Study
+    - 176 highlights from A System for Writing: How an Unconventional Approach to Note-Making Can Help You Capture Ideas, Think Wildly, and Write Constantly - A Zettelkasten Primer
+    - 3 highlights from How to Ask Better Questions | Mike Vaughan | TEDxMileHigh
+    - 2 highlights from The ROI of LinkedIn Influencer Marketing
+    - 9 highlights from Ogilvy on Advertising
+    - 14 highlights from The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
+    - 82 highlights from The Modern Polymath
+    - 4 highlights from How to Build an “Ideal Reader Persona” to Grow Your Audience With Confidence
+    - 4 highlights from How to Not Waste Your 20s
+    - 173 highlights from Driving Honda: Inside the World's Most Innovative Car Company
+    - 7 highlights from How To Succeed In Mrbeast Production
+    - 1 highlights from If You Can Spare Me 7 Minutes, You'll Get 10 Years of Your Life Back
+    - 5 highlights from Silo-Free Thinking: The Cornerstone of Building a Smarter Future
+    - 4 highlights from Liquid Knowledge
+    - 1 highlights from Newsletters for Creators
+- [[2025-11-05]] 6:04 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from Hands-OnFerdinand Berthoud Naissance D’une Montre 3: A Return to How Watchmaking Used to Be Done
+- [[2025-11-05]] 10:05 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-06]] 2:41 PM — Synced 6 highlights from 1 document.
+    - 6 highlights from Gen Z and Gen Alpha Brought a Raw, Messy Aesthetic to Social Media. Why Does It Feel as Inauthentic as Ever?
+- [[2025-11-07]] 10:11 AM — Synced 17 highlights from 2 documents.
+    - 16 highlights from A System for Writing: How an Unconventional Approach to Note-Making Can Help You Capture Ideas, Think Wildly, and Write Constantly - A Zettelkasten Primer
+    - 1 highlights from The Practice: Shipping Creative Work
+- [[2025-11-08]] 11:03 AM — Synced 0 highlights from 0 documents.
+- [[2025-11-09]] 11:03 AM — Synced 0 highlights from 0 documents.
+- [[2025-11-10]] 11:15 AM — Synced 0 highlights from 0 documents.
+

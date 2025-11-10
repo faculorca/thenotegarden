@@ -1,0 +1,8 @@
+filters:
+  and:
+    - categories.contains(link("Zettelkasten"))
+    - type.contains(link("Fleeting Note"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table

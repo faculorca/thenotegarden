@@ -1,0 +1,9 @@
+---
+categories:
+  - "[[Prompt]]"
+type:
+source:
+---
+```
+
+```

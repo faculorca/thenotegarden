@@ -1,0 +1,10 @@
+filters:
+  and:
+    - categories.contains("Prompt")
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
