@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[LinkedIn]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 I'm turning [Age] in [Y] days.

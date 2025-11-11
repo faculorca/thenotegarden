@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 ## 2 Books On {Topic} That Disagree With Each Other (And Why You Should Read Both)

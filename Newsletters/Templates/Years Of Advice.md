@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 [X] pieces of advice after [Y]+ years as a [Profression/Role]:

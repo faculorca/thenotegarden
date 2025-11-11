@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 I've [Credibility Statement], and for years I've seen how [Niche Group] was making ONE brutal mistake:

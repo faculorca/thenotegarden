@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - tweet
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[Tweet]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 [_Industry_] 5+ years ago:

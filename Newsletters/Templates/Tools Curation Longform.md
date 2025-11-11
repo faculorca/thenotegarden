@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 ## {X} Hidden {Platform} Features Guaranteed To {Outcome} (Written By A {Platform} Pro)

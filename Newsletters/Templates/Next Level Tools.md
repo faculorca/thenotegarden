@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 ## [X] Tools To Help You Reach [Milestone] If You Have Already [Outcome]

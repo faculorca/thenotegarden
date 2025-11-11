@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 ## [X] Changes I Made To My [Life Area] In [Year]

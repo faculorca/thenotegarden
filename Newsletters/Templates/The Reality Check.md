@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[LinkedIn]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 I am not a [Cliché Every Person In Your Niche Aspires To be]

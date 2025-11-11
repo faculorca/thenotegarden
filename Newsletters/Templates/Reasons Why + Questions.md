@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 ## Why You Should [Action] With [X] Questions To Help You Get Started.

@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 [X] dead-simple tips to help you [Outcome] (even if you think [Faulty Belief 1], [Faulty Belief 2], and [Faulty Belief 3]):

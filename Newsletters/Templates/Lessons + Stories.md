@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Empathize w Me]]"
+topics:
+created: 
 ---
 ```
 ## [X] Harsh Lessons I Learned While [Outcome]

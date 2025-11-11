@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 ## [Topic] 101: A Crash Course On Everything You Need To Know

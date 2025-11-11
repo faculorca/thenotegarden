@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 23:05
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 23:05
 ---
-
 ```
 The [_Niche_] industry is on fire.
 

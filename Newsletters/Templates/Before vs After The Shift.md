@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 The single mental shift that helped me [_Huge Outcome_]:

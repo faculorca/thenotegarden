@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 [One Sentence Explaining Your Last Achievement—With Numbers].

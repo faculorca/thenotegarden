@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 ## I Just {LifeAchievement}: {X} Lessons About {Topic}

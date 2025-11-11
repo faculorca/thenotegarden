@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 23:05
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 23:05
 ---
-
 ```
 [_Topic_] 101
 

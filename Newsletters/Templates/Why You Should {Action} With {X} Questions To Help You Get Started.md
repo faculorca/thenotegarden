@@ -1,8 +1,12 @@
 ---
-date: 2025-09-28, 20:21
-tags:
-  - ContentTemplate
-  - EducateMe
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[EducateMe]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-09-28, 20:21
 ---
 ```
 # Why You Should {Action} With {X} Questions To Help You Get Started

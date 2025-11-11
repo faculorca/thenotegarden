@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - tweet
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[Tweet]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 When you try to [_Action_], just assume [_Obstacle_] is going to happen.

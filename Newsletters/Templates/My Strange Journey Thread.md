@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - thread
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Twitter Threads]]"
+  - "[[Thread]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 Last week, I crossed [_Milestone_].

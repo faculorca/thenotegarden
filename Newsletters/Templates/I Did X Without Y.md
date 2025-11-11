@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+  - "[[LinkedIn]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 I [Outcome] without [What People Usually Expect To Achieve Outome].

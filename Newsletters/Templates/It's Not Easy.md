@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[LinkedIn]]"
+  - "[[Empathize w Me]]"
+topics:
+created: 
 ---
 ```
 Everybody thinks it's easy to do [Outcome].

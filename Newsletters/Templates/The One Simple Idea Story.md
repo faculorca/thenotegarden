@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 In [X] years, my [small/simple] [Type Of Business] has [Outcome]

@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 ## The [X]-Bullet Story Of My Last [Y] Years

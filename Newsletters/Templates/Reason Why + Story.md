@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 In [Year], I [Took Massive Action/Unexpected Move].

@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 A simple truth I wish I'd learned sooner in business:

@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 23:13
-tags:
-  - ContentTemplate
-  - thread
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[Thread]]"
+  - "[[Challenge Me]]"
+topics:
+created: 2025-10-05, 23:13
 ---
-
 ```
 College completely failed in teaching me how to [_Skill_].
 

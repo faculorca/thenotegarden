@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 ## The Wild Story Of How {Person/Company} Achieved {UnexpectedOutcome}

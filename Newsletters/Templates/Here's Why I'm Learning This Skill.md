@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 ## [X] Reasons I’m Learning [Skill] (When There Are Thousands Of Other Skills I Could Learn Instead)

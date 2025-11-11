@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Entertain Me]]"
+topics:
+created: 
 ---
 ```
 [_Person/Company_] has officially reached [_GiantOutcome_].

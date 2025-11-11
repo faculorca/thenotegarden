@@ -1,6 +1,11 @@
 ---
-date: {{date:YYYY-MM-DD}}, {{time}}
-tags: [ContentTemplate]
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[Challenge Me]]"
+topics:
+created: {{date:YYYY-MM-DD}}, {{time}}
 ---
 ```
 {{Desired result}} has almost nothing to do with {{common belief}}

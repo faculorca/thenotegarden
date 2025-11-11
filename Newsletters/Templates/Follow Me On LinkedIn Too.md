@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+  - "[[CTA]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 In addition to writing on Twitter, I also post regularly on LinkedIn.

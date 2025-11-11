@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 23:03
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 23:03
 ---
-
 ```
 The world’s most valuable skill is [_Skill_].
 

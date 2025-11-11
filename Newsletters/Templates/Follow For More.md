@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+  - "[[CTA]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 If you enjoyed these, click below to jump back to the top so you can:

@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 22:55
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 22:55
 ---
-
 ```
 In this first sentence, tell the reader you're going to explain to them How To do.
 

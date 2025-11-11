@@ -1,9 +1,11 @@
 ---
-tags:
-  - referenceNote
-date: 2025-10-20
-author: Tim Ferriss
-image: https://img.youtube.com/vi/ymiBDged-eQ/maxresdefault.jpg
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-20
 ---
 # How to Start a Business or Podcast From Scratch
 

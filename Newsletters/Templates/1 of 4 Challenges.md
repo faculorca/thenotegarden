@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - tweet
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[Tweet]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 [_Audience_] generally struggle with 1 of 4 challenges:

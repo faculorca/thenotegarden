@@ -1,10 +1,13 @@
 ---
-date: 2025-10-02, 21:19
-tags:
-  - ContentTemplate
-  - EducateMe
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[EducateMe]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-02, 21:19
 ---
-
 ```
 How to master {{skill}} fast:
 

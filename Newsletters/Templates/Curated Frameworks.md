@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 22:54
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 22:54
 ---
-
 ```
 ## The World’s Most Valuable Skill Is {Skill}. Here Are 5 Frameworks To Help You Master It In Record Time
 

@@ -1,10 +1,13 @@
 ---
-date: 2025-10-02, 21:18
-tags:
-  - ContentTemplate
-  - ChallengeMe
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[One-liners]]"
+  - "[[ChallengeMe]]"
+  - "[[Empathize w Me]]"
+topics:
+created: 2025-10-02, 21:18
 ---
-
 ```
 {{Thing}} is hard.
 

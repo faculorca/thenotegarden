@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+  - "[[CTA]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 If you enjoyed this Thread, I wrote an entire book on [_Topic_] you might enjoy:

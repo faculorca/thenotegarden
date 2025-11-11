@@ -1,7 +1,12 @@
 ---
-date: 2025-10-12, 11:58
-tags:
-  - newsletter
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[newsletter]]"
+  - "[[Challenge Me]]"
+topics:
+created: 2025-10-12, 11:58
 ---
 # Don't Be So Cerebral
 

@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - CTA
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Engagement]]"
+  - "[[CTA]]"
+  - "[[Educate Me]]"
+topics:
+created: 
 ---
 ```
 And if you want to [_Outcome_], join [_X_]+ students in [_Course Name_]:

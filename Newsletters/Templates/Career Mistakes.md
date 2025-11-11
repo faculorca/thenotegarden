@@ -1,10 +1,13 @@
 ---
-date: 2025-10-05, 23:02
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LinkedIn]]"
+  - "[[Educate Me]]"
+topics:
+created: 2025-10-05, 23:02
 ---
-
 ```
 I asked [_X_] [_Niche_] leaders one simple question:
 

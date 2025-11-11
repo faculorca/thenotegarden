@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LinkedIn
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LinkedIn]]"
+  - "[[Empathize w Me]]"
+topics:
+created: 
 ---
 ```
 [X] hard lessons I've learned on the journey to [Outcome]:

@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Observations]]"
+  - "[[LongForm]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 ## {X} Controversial Opinions On {Topic} 99% Of The World Agrees With—But I Do Not

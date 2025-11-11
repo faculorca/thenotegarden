@@ -1,7 +1,12 @@
 ---
-tags:
-  - ContentTemplate
-  - LongForm
+categories:
+  - "[[Content Templates]]"
+content type:
+  - "[[Tip]]"
+  - "[[LongForm]]"
+  - "[[Challenge Me]]"
+topics:
+created: 
 ---
 ```
 1 YouTube Video To Avoid If You Want To [Outcome]
