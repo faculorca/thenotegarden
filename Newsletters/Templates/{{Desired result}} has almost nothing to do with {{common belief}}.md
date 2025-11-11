@@ -5,7 +5,7 @@ content type:
   - "[[Observations]]"
   - "[[Challenge Me]]"
 topics:
-created: {{date:YYYY-MM-DD}}, {{time}}
+created: {{date}}
 ---
 ```
 {{Desired result}} has almost nothing to do with {{common belief}}

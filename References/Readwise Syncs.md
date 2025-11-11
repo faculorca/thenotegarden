@@ -72,4 +72,6 @@
 - [[2025-11-08]] 11:03 AM — Synced 0 highlights from 0 documents.
 - [[2025-11-09]] 11:03 AM — Synced 0 highlights from 0 documents.
 - [[2025-11-10]] 11:15 AM — Synced 0 highlights from 0 documents.
+- [[2025-11-10]] 11:18 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from The ONE Thing
 

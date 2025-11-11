@@ -1,12 +1,15 @@
 filters:
   and:
-    - file.hasTag("ContentTemplate")
+    - categories.contains(link("Content Templates"))
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - tags
+      - content type
+    sort:
+      - property: content type
+        direction: ASC
   - type: table
     name: Long-Form
     filters:
@@ -15,3 +18,35 @@ views:
     order:
       - file.name
       - tags
+  - type: table
+    name: Educate Me
+    filters:
+      and:
+        - note["content type"].contains(link("Educate Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Contrarian
+    filters:
+      and:
+        - note["content type"].contains(link("Challenge Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Entertain Me
+    filters:
+      and:
+        - note["content type"].contains(link("Entertain Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Emphatize With Me
+    filters:
+      and:
+        - note["content type"].contains(link("Empathize w Me"))
+    order:
+      - file.name
+      - content type
