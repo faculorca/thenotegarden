@@ -1,0 +1,1 @@
+- Reading this book feels like being listened to. It makes me feel like I'm not alone, and that I can make things work out even if it's not immediate. I'm very thankful of that.

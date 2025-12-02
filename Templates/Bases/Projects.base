@@ -34,4 +34,4 @@ views:
     name: Ghostwriting
     filters:
       and:
-        - type.contains(link("Ghostwriting"))
+        - type.contains(link("Ghostwriting Business"))

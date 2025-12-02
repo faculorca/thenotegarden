@@ -151,4 +151,85 @@ link:
 > When we ship our best work (at least our best in this moment), we have a chance to turn it into art. And then we have a chance to do it again.
 
  * [View Highlight](https://read.readwise.io/read/01k9e70aggm89hgzkz1antcawh)
+## New highlights added November 13, 2025 at 1:55 PM
+### id957126523
+
+> Waiting for a feeling is a luxury we don’t have time for.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z28nt2ptff8rq0bv29j8qy)
+## New highlights added November 13, 2025 at 2:55 PM
+### id957126742
+
+> Most of the time, the story we live by came from somewhere. It might be the way we were raised, or it could be the outcome of a series of events. Burn yourself on the stove and you might persuade yourself that you should go nowhere near a stove. Grow up in a home with low expectations and it’s possible you’ll begin to believe them. The story we tell ourselves leads to the actions we take.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2bdfm9hf3sh3ydax7h5y3)
+
+### id957126746
+
+> **If you want to change your story, change your actions first.** When we choose to act a certain way, our mind can’t help but rework our narrative to make those actions become coherent.
+> *We become what we do.*
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2bm32570ccbwd29d33ep5)
+
+### id957127214
+
+> Flow is a symptom of the work we’re doing, not the cause of it.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2e42fpahsqxntrm9q0vx0)
+
+### id957127539
+
+> Once you decide to trust your *self*, you will have found your passion. You’re not born with it, and you don’t have just one passion. It’s not domain-specific: it’s a choice.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2gq4n5j6kns5m9fn76wxj)
+
+### id957127666
+
+> “Do what you love” is for amateurs.
+> “Love what you do” is the mantra for professionals.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2j0m1321pnvmpn7v3qy5z)
+
+### id957127735
+
+> We live in an outcome-focused culture. A plumber doesn’t get credit for effort; he gets credit if the faucet stops leaking. A corporation is rarely judged on the long-term impact of how it treats its employees; it is judged on its earnings per share.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2k86sghwcka2k2w216mqm)
+
+### id957127773
+
+> Lost in this obsession with outcome is the truth that outcomes are the results of process. Good processes, repeated over time, lead to good outcomes more often than lazy processes do.
+
+- [n] ZK
+   it reminded me of David Senra hand crafting each podcast episode
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2kymxetw7sqgpqy7bqgch)
+
+### id957127970
+
+> Our commitment to the process is the only alternative to the lottery-mindset of hoping for the good luck of getting picked by the universe.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2pa6x56v0h2e3w8tq8qgp)
+
+### id957128148
+
+> Start where you are. Start now. Find the pattern and care enough to do something about it.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2vkcw89r37ky2eac3xjyd)
+
+### id957128826
+
+> Annie Duke, former world champion of poker, teaches us that there’s a huge gap between a good decision and a good outcome. A good decision is based on what we know of the options and the odds. A good outcome happens or it doesn’t: it is a consequence of the odds, not the hidden answer.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2x51n76etav41dznfzdkf)
+
+### id957128829
+
+> Decisions are good even if the outcomes aren’t.
+
+- [n] Even if decisions are good, outcomes may vary.
+   Don't beat yourself for a bad outcome without thinking about the quality of your decision.
+   Just accept what is and what is not.
+
+ * [View Highlight](https://read.readwise.io/read/01k9z2x988st1pq0cqkc2a5smj)
 

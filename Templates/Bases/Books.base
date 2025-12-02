@@ -1,6 +1,5 @@
 filters:
   and:
-    - categories.contains(link("Books"))
     - '!file.name.contains("Template")'
 properties:
   note.author:
@@ -14,6 +13,9 @@ properties:
 views:
   - type: table
     name: Books
+    filters:
+      and:
+        - author.contains(link(this))
     order:
       - file.name
       - author

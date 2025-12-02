@@ -1,0 +1,11 @@
+filters:
+  and:
+    - categories.contains(link("Zettelkasten"))
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - topics.contains(link("Entrepreneurship"))
+  - type: table
+    name: Innovation

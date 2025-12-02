@@ -74,4 +74,19 @@
 - [[2025-11-10]] 11:15 AM — Synced 0 highlights from 0 documents.
 - [[2025-11-10]] 11:18 PM — Synced 2 highlights from 1 document.
     - 2 highlights from The ONE Thing
+- [[2025-11-12]] 9:55 AM — Synced 0 highlights from 0 documents.
+- [[2025-11-13]] 9:55 AM — Synced 0 highlights from 0 documents.
+- [[2025-11-13]] 1:55 PM — Synced 1 highlight from 1 document.
+    - 1 highlights from The Practice: Shipping Creative Work
+- [[2025-11-13]] 2:55 PM — Synced 11 highlights from 1 document.
+    - 11 highlights from The Practice: Shipping Creative Work
+- [[2025-11-13]] 3:55 PM — Synced 8 highlights from 1 document.
+    - 8 highlights from Find the Simplest Thing That Works
+- [[2025-11-14]] 3:56 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-15]] 4:22 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-16]] 4:22 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-17]] 4:37 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-18]] 9:35 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-19]] 9:35 PM — Synced 0 highlights from 0 documents.
+- [[2025-11-20]] 9:45 PM — Synced 0 highlights from 0 documents.
 

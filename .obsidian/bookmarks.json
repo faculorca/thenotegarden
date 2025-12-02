@@ -6,21 +6,9 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1762438809207,
-          "path": "Templates/Bases/Fleeting Notes.base",
-          "title": "Fleeting Notes"
-        },
-        {
-          "type": "file",
-          "ctime": 1762390610085,
-          "path": "Templates/Bases/Zettelkasten.base",
+          "ctime": 1763649020432,
+          "path": "Categories/Zettelkasten.md",
           "title": "Slip Box"
-        },
-        {
-          "type": "file",
-          "ctime": 1762433333107,
-          "path": "Templates/Bases/Content Template.base",
-          "title": "Content Templates"
         },
         {
           "type": "file",
@@ -40,7 +28,7 @@
     {
       "type": "file",
       "ctime": 1762474114599,
-      "path": "Notes/Ghostwriting Project/Ghostwriting.md"
+      "path": "Notes/Ghostwriting Project/Ghostwriting Business.md"
     }
   ]
 }

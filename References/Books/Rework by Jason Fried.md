@@ -20,7 +20,7 @@ isbn13: 9780307463746
 year: 2010
 rating:
 topics:
-  - "[[Business]]"
+  - "[[Entrepreneurship]]"
   - "[[Philosophy]]"
 created: 2025-11-05
 last:

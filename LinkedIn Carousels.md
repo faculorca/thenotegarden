@@ -3,7 +3,7 @@ categories:
   - Prompt
 url: https://substack.com/home/post/p-176487516
 type:
-  - "[[Ghostwriting]]"
+  - "[[Ghostwriting Business]]"
 ---
 ```
 You are an expert at repurposing LinkedIn posts into Gamma.app carousel decks.

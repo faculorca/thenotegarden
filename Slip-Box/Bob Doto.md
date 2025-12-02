@@ -4,4 +4,4 @@ type:
   - "[[Authors]]"
 ---
 ## Articles & Books
-![[Zettelkasten.base#Reference Notes]]
+![[Zettelkasten.base#Authors]]

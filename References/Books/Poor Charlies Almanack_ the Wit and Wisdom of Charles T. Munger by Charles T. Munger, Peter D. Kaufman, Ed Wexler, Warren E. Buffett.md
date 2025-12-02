@@ -8,7 +8,7 @@ type:
 date:
   - - - 2025-11-05
 author:
-  - "[[Charles T. Munger]]"
+  - "[[Charlie Munger]]"
   - "[[Peter D. Kaufman]]"
   - "[[Ed Wexler]]"
   - "[[Warren E. Buffet]]"
@@ -22,7 +22,7 @@ isbn13: 9781578645015
 year: 2005
 rating:
 topics:
-  - "[[Business]]"
+  - "[[Entrepreneurship]]"
 created: 2025-11-05
 last:
 via: ""

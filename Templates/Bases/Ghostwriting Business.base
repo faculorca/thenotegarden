@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.links.contains(link("Ghostwriting Business"))
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Alejandro Bisquertt
+    filters:
+      and:
+        - file.links.contains(link("Alejandro Bisquertt"))
+    order:
+      - file.name
+      - type
+    indentProperties: false
+    columnSize:
+      file.name: 305

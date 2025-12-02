@@ -341,8 +341,29 @@ I've found projects to be addicting.
 
 ## Listicle
 What are some tools/books/newsletters/Tweets about this?
+
+```
+3 Obsidian principles nobody teaches beginners:
+
+- Notes should contain one idea only (not topics—ideas)
+- Names should work as sentences in essays
+- Links need context, not just connections
+
+Skip the folder hell. Embrace properties and bases.
+```
+
 ## Analyze
 Why did this happen?
+
+```
+Most people drop their writing system after 6 months.
+
+Why?
+
+Because they treat it like a filing system instead of a thinking system. They organize by topic, name notes abstractly, and avoid linking. 
+
+That's a Result: impressive structure, zero utility. The notes that last are the ones that connect, not the ones that categorize.
+```
 
 # Pre-Hub & Post-Hub
 ## Pre-Hub
@@ -365,17 +386,16 @@ If you want to join us, subscribe here:
 ## Post-Hub
 
 ```
-{EmailSubjectLineOpener}
+Your notes should outlive the app.
 
-{ContextualSentence1}
+That's why I keep returning to Obsidian after 7 years.
 
-{ContextualSentence2}
-
-Yesterday, XX,XXX people learned how to {IntendedOutcome}
+Yesterday, I teached how to create atomic notes that connect instead of organize.
 
 Miss the issue?
 
 Grab it below ↓
 
-{Hyperlink}
+
+```
 

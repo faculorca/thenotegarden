@@ -1,0 +1,16 @@
+filters:
+  and:
+    - categories.contains(link("Content Templates"))
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: To Templatize
+    filters:
+      and:
+        - type.contains(link("To-Templatize"))
+  - type: table
+    name: Ready to use
+    filters:
+      and:
+        - type.contains(link("Ready-to-use-templates"))

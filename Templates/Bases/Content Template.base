@@ -14,7 +14,7 @@ views:
     name: Long-Form
     filters:
       and:
-        - file.tags.contains("LongForm")
+        - file.links.contains("LongForm")
     order:
       - file.name
       - tags

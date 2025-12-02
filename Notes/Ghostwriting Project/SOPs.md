@@ -2,7 +2,7 @@
 categories:
   - "[[Projects]]"
 type:
-  - "[[Ghostwriting]]"
+  - "[[Ghostwriting Business]]"
 ---
 ### **CLIENT ACQUISITION (4 SOPs)**
 

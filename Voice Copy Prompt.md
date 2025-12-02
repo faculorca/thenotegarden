@@ -2,7 +2,7 @@
 categories:
   - Prompt
 type:
-  - "[[Ghostwriting]]"
+  - "[[Ghostwriting Business]]"
 ---
 ```
 <role> 

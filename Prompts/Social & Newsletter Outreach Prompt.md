@@ -2,6 +2,7 @@
 categories:
   - "[[Prompt]]"
 type:
+  - "[[Ghostwriting Business]]"
 source:
 ---
 ```

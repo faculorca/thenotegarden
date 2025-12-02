@@ -29,5 +29,5 @@ views:
       - property: birthday
         direction: DESC
     columnSize:
-      note.tags: 209
+      note.type: 205
       formula.Age: 99

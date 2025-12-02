@@ -5,7 +5,7 @@ author:
   - "[[Me]]"
 url:
 created:
-  "{ date }":
+  "{{date}}"
 published:
 topics: []
 status:

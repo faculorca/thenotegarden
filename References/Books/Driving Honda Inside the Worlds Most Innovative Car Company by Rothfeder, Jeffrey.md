@@ -18,7 +18,7 @@ isbn13: 9781591844730
 year: 2014
 rating: 5
 topics:
-  - "[[Business]]"
+  - "[[Entrepreneurship]]"
 created: 2025-11-05
 last:
 via: ""

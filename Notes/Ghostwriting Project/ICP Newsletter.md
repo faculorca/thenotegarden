@@ -2,7 +2,7 @@
 categories:
   - "[[Projects]]"
 type:
-  - "[[Ghostwriting]]"
+  - "[[Ghostwriting Business]]"
 org: []
 start: 2025-11-06
 year:

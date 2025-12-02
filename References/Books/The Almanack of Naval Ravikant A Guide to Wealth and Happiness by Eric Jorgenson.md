@@ -18,7 +18,7 @@ isbn13: 9781544514215
 year: 2020
 rating:
 topics:
-  - "[[Business]]"
+  - "[[Entrepreneurship]]"
   - "[[Philosophy]]"
 created: 2025-11-05
 last:

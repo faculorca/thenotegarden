@@ -5,6 +5,7 @@ filters:
     - start.toString().contains(this.file.name)
     - end.toString().contains(this.file.name)
     - file.links.contains(this.file)
+    - file.ctime == file
 properties:
   file.name:
     displayName: Entry
