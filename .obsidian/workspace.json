@@ -6,7 +6,7 @@
       {
         "id": "05a190a3a295d032",
         "type": "tabs",
-        "dimension": 43.782051282051285,
+        "dimension": 56.632247815726764,
         "children": [
           {
             "id": "4e726a249f01a82c",
@@ -27,7 +27,7 @@
       {
         "id": "8521092dc390e272",
         "type": "tabs",
-        "dimension": 56.217948717948715,
+        "dimension": 43.367752184273236,
         "children": [
           {
             "id": "bbae2c26cb79ee11",
@@ -182,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Fiction Character Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fiction Character Template"
+              "title": "Outline"
             }
           },
           {
@@ -216,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,15 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17a89b1eb41c14ea",
+  "active": "bbae2c26cb79ee11",
   "lastOpenFiles": [
+    "Templates/Fiction Character Template.md",
     "Ghostwriting/Audios 29-10-2025.md",
     "Ghostwriting/Audios 20-11-2025.md",
     "Ghostwriting",
     "The Obsession That Creates Enduring Companies - David Senra Interview.md",
     "Templates/TTRPG Book Template.md",
     "Templates/Scene Template.md",
-    "Templates/Fiction Character Template.md",
     "Templates/Bases/Name Pool.md",
     "Templates/Bases/Fiction.base",
     "Stephen King.md",
