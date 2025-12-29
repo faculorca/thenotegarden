@@ -1,0 +1,51 @@
+filters:
+  and:
+    - note.categories.contains(link("Games"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Games
+  note.year:
+    displayName: Year
+  note.maker:
+    displayName: Maker
+  note.rating:
+    displayName: Rating
+  note.genre:
+    displayName: Genre
+  note.last:
+    displayName: Last played
+views:
+  - type: table
+    name: Games
+    order:
+      - file.name
+      - maker
+      - genre
+      - year
+      - rating
+      - last
+  - type: table
+    name: Studio
+    filters:
+      and:
+        - list(maker).contains(this)
+    order:
+      - file.name
+      - maker
+      - genre
+      - year
+      - rating
+      - last
+  - type: table
+    name: Genre
+    filters:
+      and:
+        - list(genre).contains(this)
+    order:
+      - file.name
+      - maker
+      - genre
+      - year
+      - rating
+      - last

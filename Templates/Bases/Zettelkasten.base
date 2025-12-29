@@ -1,0 +1,62 @@
+filters:
+  and:
+    - categories.contains(link("Zettelkasten"))
+    - '!file.name.contains("Template")'
+formulas:
+  Untitled: ""
+properties:
+  note.date:
+    displayName: date
+views:
+  - type: table
+    name: Main Notes
+    filters:
+      and:
+        - file.hasLink(this)
+        - file.hasLink("Categories/Main Note")
+    order:
+      - file.name
+      - topics
+      - type
+      - file.backlinks
+      - date
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: date
+        direction: ASC
+      - property: type
+        direction: ASC
+    columnSize:
+      file.name: 447
+      note.topics: 204
+      note.type: 101
+      note.date: 196
+  - type: table
+    name: Authors
+    filters:
+      and:
+        - author.contains(link(this))
+  - type: cards
+    name: Reference Notes
+    filters:
+      and:
+        - type.contains(link("Reference Note"))
+    order:
+      - file.name
+      - type
+    columnSize:
+      file.name: 382
+    image: note.image
+  - type: table
+    name: View
+  - type: table
+    name: Fleeting Notes
+    filters:
+      and:
+        - type.contains(link("Fleeting Note"))
+  - type: table
+    name: Notes Related To
+    filters:
+      and:
+        - file.hasLink("Slip-Box/Naval")

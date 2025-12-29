@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"1173846574b6974d","type":"text","text":"Content Strategy SOP","x":-78,"y":266,"width":250,"height":60},
+		{"id":"ea55303d704f7e5c","type":"text","text":"Voice Capture SOP","x":-78,"y":173,"width":250,"height":60},
+		{"id":"c37d7f5baa216e1d","type":"text","text":"Welcome & Kickoff SOP","x":-78,"y":80,"width":250,"height":60},
+		{"id":"3c8928f29d14f07e","type":"text","text":"**CLIENT ONBOARDING**","x":-520,"y":173,"width":250,"height":60},
+		{"id":"bbd1d7ac0dab2b04","type":"text","text":"Newsletter Creation SOP","x":-78,"y":606,"width":250,"height":60},
+		{"id":"079f444eb56fa606","type":"text","text":"LinkedIn Post Creation SOP","x":-78,"y":513,"width":250,"height":60},
+		{"id":"9e7e05cbae114d3b","type":"text","text":"Content Calendar SOP","x":-78,"y":420,"width":250,"height":60},
+		{"id":"f62d159eb8e896d4","type":"text","text":"Long-form Article SOP","x":-78,"y":700,"width":250,"height":60},
+		{"id":"edebc22a20f1c1a7","type":"text","text":"**CONTENT CREATION**","x":-520,"y":560,"width":250,"height":60},
+		{"id":"14c7f9b052c6ceef","type":"text","text":"**BUSINESS OPERATIONS**","x":-520,"y":900,"width":250,"height":60},
+		{"id":"43e045aa2cd5883b","type":"text","text":"Weekly Business Review SOP","x":-78,"y":840,"width":250,"height":60},
+		{"id":"215071ee99bdad2f","type":"text","text":"Client Offboarding SOP","x":-78,"y":960,"width":250,"height":60},
+		{"id":"a85b347d7c0bb84e","type":"text","text":"**CLIENT ACQUISITION**","x":-2080,"y":-740,"width":250,"height":60},
+		{"id":"9595d9ee4a64211d","type":"text","text":"Outreach SOP","x":-1638,"y":-1060,"width":250,"height":60},
+		{"id":"66ff8103df877793","type":"text","text":"Discovery Call SOP","x":-1638,"y":-860,"width":250,"height":60},
+		{"id":"f957b9d8ea65e132","type":"text","text":"Contract & Payment SOP","x":-1638,"y":-460,"width":250,"height":60},
+		{"id":"7cbdb2853127a548","type":"text","text":"Proposal & Pricing SOP","x":-1638,"y":-660,"width":250,"height":60},
+		{"id":"584f9c5d17fcac6c","type":"file","file":"Prompts/Social & Newsletter Outreach Prompt.md","x":-1100,"y":-1430,"width":400,"height":400},
+		{"id":"c5c9078fa48e64f6","type":"text","text":"","x":-1100,"y":-960,"width":250,"height":54}
+	],
+	"edges":[
+		{"id":"0e76db7c740b1599","fromNode":"a85b347d7c0bb84e","fromSide":"right","toNode":"9595d9ee4a64211d","toSide":"left"},
+		{"id":"a617cf28fd183171","fromNode":"a85b347d7c0bb84e","fromSide":"right","toNode":"66ff8103df877793","toSide":"left"},
+		{"id":"7baa4f2470847a6b","fromNode":"a85b347d7c0bb84e","fromSide":"right","toNode":"7cbdb2853127a548","toSide":"left"},
+		{"id":"e92be69ffa80820e","fromNode":"a85b347d7c0bb84e","fromSide":"right","toNode":"f957b9d8ea65e132","toSide":"left"},
+		{"id":"b7eb1813cf8832cc","fromNode":"3c8928f29d14f07e","fromSide":"right","toNode":"1173846574b6974d","toSide":"left"},
+		{"id":"22f3c40d7b33b279","fromNode":"3c8928f29d14f07e","fromSide":"right","toNode":"ea55303d704f7e5c","toSide":"left"},
+		{"id":"0929ff1868d498b6","fromNode":"3c8928f29d14f07e","fromSide":"right","toNode":"c37d7f5baa216e1d","toSide":"left"},
+		{"id":"a5a2be0cda3662f5","fromNode":"edebc22a20f1c1a7","fromSide":"right","toNode":"bbd1d7ac0dab2b04","toSide":"left"},
+		{"id":"a741e7c72315b240","fromNode":"edebc22a20f1c1a7","fromSide":"right","toNode":"079f444eb56fa606","toSide":"left"},
+		{"id":"c5bff17c202965a3","fromNode":"edebc22a20f1c1a7","fromSide":"right","toNode":"9e7e05cbae114d3b","toSide":"left"},
+		{"id":"425c75b306ea058f","fromNode":"edebc22a20f1c1a7","fromSide":"right","toNode":"f62d159eb8e896d4","toSide":"left"},
+		{"id":"edccd2af91c0d3f9","fromNode":"14c7f9b052c6ceef","fromSide":"right","toNode":"43e045aa2cd5883b","toSide":"left"},
+		{"id":"0f1343a0b35a05b2","fromNode":"14c7f9b052c6ceef","fromSide":"right","toNode":"215071ee99bdad2f","toSide":"left"},
+		{"id":"2d97140520da698a","fromNode":"9595d9ee4a64211d","fromSide":"right","toNode":"584f9c5d17fcac6c","toSide":"left"},
+		{"id":"2c4a2ef76773893b","fromNode":"9595d9ee4a64211d","fromSide":"right","toNode":"c5c9078fa48e64f6","toSide":"left"}
+	]
+}

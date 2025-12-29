@@ -1,0 +1,60 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Categories/Zettelkasten.md": {
+      "icon": "sheets-in-box"
+    },
+    "Newsletter.md": {
+      "icon": "lucide-text-select"
+    },
+    "Notes/Ghostwriting Project/Ghostwriting Business.md": {
+      "icon": "lucide-ghost"
+    },
+    "Templates/Bases/Everything.base": {
+      "icon": "lucide-shopping-basket",
+      "unsynced": [
+        "219d51cdff3ff672"
+      ]
+    },
+    "Templates/Bases/Fiction.base": {
+      "icon": "lucide-terminal-square",
+      "unsynced": [
+        "219d51cdff3ff672"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - categories.contains(link("Newsletter"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - topics
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 400

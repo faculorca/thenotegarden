@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Terminal2K",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "[Post] customize tweet backup"
+  ],
+  "accentColor": "#85b885"
+}

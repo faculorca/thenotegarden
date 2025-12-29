@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.hasLink("Fiction")
+views:
+  - type: table
+    name: Table

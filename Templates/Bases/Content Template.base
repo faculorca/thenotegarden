@@ -1,0 +1,52 @@
+filters:
+  and:
+    - categories.contains(link("Content Templates"))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - content type
+    sort:
+      - property: content type
+        direction: ASC
+  - type: table
+    name: Long-Form
+    filters:
+      and:
+        - file.links.contains("LongForm")
+    order:
+      - file.name
+      - tags
+  - type: table
+    name: Educate Me
+    filters:
+      and:
+        - note["content type"].contains(link("Educate Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Contrarian
+    filters:
+      and:
+        - note["content type"].contains(link("Challenge Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Entertain Me
+    filters:
+      and:
+        - note["content type"].contains(link("Entertain Me"))
+    order:
+      - file.name
+      - content type
+  - type: table
+    name: Emphatize With Me
+    filters:
+      and:
+        - note["content type"].contains(link("Empathize w Me"))
+    order:
+      - file.name
+      - content type

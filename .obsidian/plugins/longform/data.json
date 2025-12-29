@@ -1,0 +1,215 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Longform Writing Projects/Space Campaign/Terminal Space/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-12-29T14:39:56.871Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-28T18:27:32.184Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-26T10:32:22.991Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-25T14:22:28.491Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-22T15:51:37.176Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-21T15:09:58.237Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-21T00:39:50.040Z",
+      "total": 51,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 51,
+          "scenes": {
+            "Intro": 51
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-12T15:14:53.989Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-11T13:39:08.990Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-09T14:50:07.483Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-08T17:15:42.907Z",
+      "total": 249,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 249,
+          "scenes": {
+            "Intro": 249
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-08T17:15:26.307Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Intro": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-12-08T17:03:39.986Z",
+      "total": 0,
+      "drafts": {
+        "Longform Writing Projects/Space Campaign/Terminal Space/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": "Templates/Scene Template.md",
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

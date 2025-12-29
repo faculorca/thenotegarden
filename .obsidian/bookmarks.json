@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1762390623849,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1763649020432,
+          "path": "Categories/Zettelkasten.md",
+          "title": "Slip Box"
+        },
+        {
+          "type": "file",
+          "ctime": 1762434578074,
+          "path": "Newsletter.md",
+          "title": "Newsletters"
+        }
+      ],
+      "title": "Note Garden"
+    },
+    {
+      "type": "file",
+      "ctime": 1762433364352,
+      "path": "Templates/Bases/Everything.base",
+      "title": "Everything"
+    },
+    {
+      "type": "file",
+      "ctime": 1762474114599,
+      "path": "Notes/Ghostwriting Project/Ghostwriting Business.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1765552555723,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1765553220792,
+          "path": "Templates/Bases/Fiction.base",
+          "title": "Fiction Base"
+        },
+        {
+          "type": "group",
+          "ctime": 1767019645331,
+          "items": [],
+          "title": "Terminal Space"
+        }
+      ],
+      "title": "Fiction"
+    }
+  ]
+}

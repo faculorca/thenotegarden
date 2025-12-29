@@ -1,0 +1,1 @@
+![[Zettelkasten.base#Main Notes]]

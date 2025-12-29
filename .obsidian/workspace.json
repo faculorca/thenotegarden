@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "7af47e51587643eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "05a190a3a295d032",
+        "type": "tabs",
+        "dimension": 43.782051282051285,
+        "children": [
+          {
+            "id": "4e726a249f01a82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Movie Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Movie Template"
+            }
+          },
+          {
+            "id": "e8bac672042d001d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Articles/Corpo 01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corpo 01"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8521092dc390e272",
+        "type": "tabs",
+        "dimension": 56.217948717948715,
+        "children": [
+          {
+            "id": "bbae2c26cb79ee11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Fiction Character Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fiction Character Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24c134571c8b6821",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0147c233039903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "763ad75e3aae86ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2613d06b396a77a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e93878a2d609b18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2f78a1e47fcd4227",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "c0518743d29d26e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ac4fc4fc094452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fcb0f11ecb9d2c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Fiction Character Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fiction Character Template"
+            }
+          },
+          {
+            "id": "587fec2d4cdb32c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "db8bc3c96ed08cc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f1cf87fb0229abb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "17a89b1eb41c14ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Fiction Character Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fiction Character Template"
+            }
+          },
+          {
+            "id": "5a4541562f0f462f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "01bcd16b10d54c88",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "iconic:Open rulebook": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "17a89b1eb41c14ea",
+  "lastOpenFiles": [
+    "References/Articles/Corpo 01.md",
+    "Templates/Fiction Character Template.md",
+    "Templates/TTRPG Book Template.md",
+    "References/Articles/Mothership.md",
+    "Templates/Movie Template.md",
+    "Templates/Movie Genre Template.md",
+    "Templates/Company Template.md",
+    "Templates/Coffee Template.md",
+    "Templates/Clipping Template.md",
+    "Templates/City Template.md",
+    "Templates/Book Template.md",
+    "Templates/Bases/Fiction.base",
+    "Notes/Ghostwriting Project/Ghostwriting Business.md",
+    "Templates/Bases/Everything.base",
+    "Newsletter.md",
+    "Categories/Zettelkasten.md",
+    "David Senra Deep Dive - Claude AI.md",
+    "ConvertKit.md",
+    "References/Configurar un servidor de Minecraft.md",
+    "Contactos ETM.md",
+    "Categories/Authors.md",
+    "3 Ideas Newsletter - Week 1.md",
+    "Ghostwriting/Audios 20-11-2025.md",
+    "Ghostwriting/Audios 29-10-2025.md",
+    "Ghostwriting",
+    "Recurrent/Daily/2025-12-13 1116.md",
+    "Recurrent/Daily/2025-12-12 1254.md",
+    "Attachments/5.1a2 The writing habit loop.png",
+    "Categories/People/Chris Donnelly.md",
+    "Categories/People/Charlie Munger.md",
+    "Longform Writing Projects/Space Campaign/Terminal Space/Scheme.canvas",
+    "RPGs/Mothership/Mothership 1E - Wardens Operation Man... (Z-Library).pdf",
+    "Templates/Bases/Fleeting Notes.base",
+    "Templates/Bases/Games.base",
+    "Templates/Bases/Genre.base",
+    "Templates/Bases/Products.base",
+    "Templates/Bases/Posts.base",
+    "Templates/Bases/Prompt.base",
+    "Attachments/IMG-20251202-WA0007.jpg",
+    "Attachments/IMG-20251202-WA0025.jpg",
+    "Ghostwriting SOPs.canvas",
+    "Zettelkasten Made Simple.canvas",
+    "Attachments/ChatGPT Image Sep 24, 2025, 10_12_34 PM.png",
+    "Attachments/Zettelkasten Thread-4.png",
+    "Attachments/Services Packaging Prompt-1.png",
+    "Attachments/Newsletter W45 - Bases Example 2.png",
+    "Attachments/How to use chaos and uncertainty to grow-2.png",
+    "Attachments/Services Packaging Prompt.png",
+    "Attachments/NL25W40The Start of Something Dangerous-2.png"
+  ]
+}

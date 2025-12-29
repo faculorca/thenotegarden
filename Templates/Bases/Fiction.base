@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasLink("Fiction")
+views:
+  - type: table
+    name: Written Fiction
+    filters:
+      and:
+        - '!file.name.contains("Template")'
+        - '!file.hasLink("Slip-Box/Fiction Idea")'
+        - '!file.hasLink("Categories/Main Note")'
+    order:
+      - file.name
+      - campaign
+    columnSize:
+      file.name: 266
+  - type: table
+    name: Fiction Notes
+    filters:
+      and:
+        - file.hasLink("Categories/Main Note")
+    order:
+      - file.name
+      - topics
+      - file.mtime
+    columnSize:
+      file.name: 407
+      note.topics: 161
+  - type: table
+    name: Ideas
+    filters:
+      and:
+        - file.hasLink("Slip-Box/Fiction Idea")
+  - type: table
+    name: Terminal Space
+    filters:
+      and:
+        - file.hasLink("Longform Writing Projects/Space Campaign/Terminal Space/Terminal Space")
+    order:
+      - file.name
+      - file.links
+  - type: table
+    name: Characters
+    filters:
+      and:
+        - file.hasLink("References/Articles/Character")
