@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "Movie Template"
             }
-          },
-          {
-            "id": "e8bac672042d001d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Articles/Corpo 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corpo 01"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8521092dc390e272",
@@ -48,14 +33,10 @@
             "id": "bbae2c26cb79ee11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Fiction Character Template.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fiction Character Template"
+              "title": "New tab"
             }
           }
         ]
@@ -141,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Fiction Character Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fiction Character Template"
+              "title": "Backlinks"
             }
           },
           {
@@ -258,49 +238,49 @@
   },
   "active": "17a89b1eb41c14ea",
   "lastOpenFiles": [
-    "hussain ibarra.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Tim Denning.md",
-    "Templates/Bases/The Obsession That Creates Enduring Companies - David Senra Interview.md",
-    "Templates/Bases/Stephen King.md",
-    "Templates/Bases/James Dyson.md",
-    "Templates/Bases/Insanely Simple.md",
-    "Templates/Bases/David Senra Deep Dive - Claude AI.md",
-    "Sinem Günel.md",
-    "Seth Godin.md",
-    "Sam Elsner.md",
-    "Randy Olson.md",
-    "Paul Graham.md",
-    "Odysseas.md",
-    "Nicolas Cole.md",
-    "Nick Milo.md",
-    "Nathan Barry.md",
-    "Mike Vaughan.md",
-    "Mark Kauzlarich.md",
-    "LICENSE",
-    "Justin Welsh.md",
-    "John David McKee.md",
-    "Joan Westenberg.md",
-    "Jente Ottenburghs.md",
-    "Jeffrey Rothfeder.md",
+    "Ghostwriting/Audios 29-10-2025.md",
+    "Ghostwriting/Audios 20-11-2025.md",
     "Ghostwriting",
+    "The Obsession That Creates Enduring Companies - David Senra Interview.md",
+    "Templates/TTRPG Book Template.md",
+    "Templates/Scene Template.md",
+    "Templates/Fiction Character Template.md",
+    "Templates/Bases/Name Pool.md",
+    "Templates/Bases/Fiction.base",
+    "Stephen King.md",
+    "Slip-Box/Fiction Idea.md",
+    "Scene.md",
+    "Reflexión luego de feria endowment UNAB.md",
+    "References/Configurar un servidor de Minecraft.md",
+    "References/Articles/Story Structure - Dan Wells.md",
+    "References/Articles/Mothership.md",
+    "References/Articles/Dan Wells.md",
+    "References/Articles/Corpo 01.md",
+    "References/Articles/Character.md",
+    "Recurrent/Daily/2025-12-29.md",
+    "Recurrent/Daily/2025-12-28.md",
+    "Recurrent/Daily/2025-12-26.md",
+    "Recurrent/Daily/2025-12-25.md",
+    "Recurrent/Daily/2025-12-22.md",
+    "Recurrent/Daily/2025-12-21.md",
+    "Recurrent/Daily/2025-12-20.md",
+    "Recurrent/Daily/2025-12-13.md",
+    "Recurrent/Daily/2025-12-13 1116.md",
+    "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Basic).pdf",
+    "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Advanced).pdf",
+    "RPGs/Mothership/Utilities/Mothership-Ship-Manifest.pdf",
+    "RPGs/Mothership/Utilities",
+    "RPGs/Mothership/Core Booklets/Mothership 1E - Wardens Operation Manual.pdf",
+    "RPGs/Mothership/Core Booklets/Mothership 1E - Unconfirmed Contact Reports.pdf",
+    "RPGs/Mothership/Core Booklets/Mothership 1E - ShipBreakers Toolkit.pdf",
+    "RPGs/Mothership/Core Booklets/Mothership 1E - Players Survival Guide.pdf",
     "Longform Writing Projects/Space Campaign/Terminal Space/Scheme.canvas",
-    "Longform Writing Projects/Space Campaign/Terminal Space",
-    "Categories/People",
     "Attachments/IMG-20251202-WA0038.jpg",
     "Attachments/IMG-20251202-WA0025.jpg",
     "Attachments/IMG-20251202-WA0015.jpg",
     "Attachments/IMG-20251202-WA0014.jpg",
     "Attachments/IMG-20251202-WA0007.jpg",
-    "Templates/Bases/Fiction.base",
-    "Templates/Bases/Everything.base",
     "Attachments/5.1a2 The writing habit loop.png",
-    "RPGs/Mothership/Mothership 1E - Wardens Operation Man... (Z-Library).pdf",
-    "Templates/Bases/Fleeting Notes.base",
-    "Templates/Bases/Games.base",
-    "Templates/Bases/Genre.base",
     "Ghostwriting SOPs.canvas",
     "Zettelkasten Made Simple.canvas",
     "Attachments/ChatGPT Image Sep 24, 2025, 10_12_34 PM.png",
