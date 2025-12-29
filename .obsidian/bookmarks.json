@@ -29,6 +29,7 @@
       "type": "file",
       "ctime": 1762474114599,
       "path": "Notes/Ghostwriting Project/Ghostwriting Business.md"
+<<<<<<< HEAD
     },
     {
       "type": "group",
@@ -48,6 +49,8 @@
         }
       ],
       "title": "Fiction"
+=======
+>>>>>>> main
     }
   ]
 }

@@ -74,7 +74,11 @@
     "TQ_show_tags": "checkbox",
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
+<<<<<<< HEAD
     "TQ_show_urgency": "checkbox",
     "campaign": "multitext"
+=======
+    "TQ_show_urgency": "checkbox"
+>>>>>>> main
   }
 }

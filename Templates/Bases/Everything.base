@@ -9,11 +9,14 @@ views:
       - file.mtime
       - file.path
       - file.ext
+<<<<<<< HEAD
     sort:
       - property: file.mtime
         direction: DESC
     columnSize:
       file.name: 362
+=======
+>>>>>>> main
   - type: cards
     name: Images
     filters:
@@ -39,8 +42,11 @@ views:
       - property: date
         direction: DESC
     image: formula.Embeds
+<<<<<<< HEAD
   - type: table
     name: Filtered by link
     filters:
       and:
         - file.hasLink(this)
+=======
+>>>>>>> main

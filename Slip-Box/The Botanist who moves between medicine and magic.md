@@ -1,9 +1,16 @@
 ---
 categories:
+<<<<<<< HEAD
   - "[[Zettelkasten]]"
   - "[[Fiction]]"
 type:
   - "[[Fiction Idea]]"
+=======
+  - "[[Fiction]]"
+  - "[[Zettelkasten]]"
+type:
+  - "[[Main Note]]"
+>>>>>>> main
 date:
   - 2025-11-16
 last:

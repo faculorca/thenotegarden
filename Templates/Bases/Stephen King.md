@@ -7,8 +7,4 @@ type:
 ![[Books.base]]
 
 ## Mentioned on
-<<<<<<< HEAD
-![[Everything.base#Filtered by link]]
-=======
 ![[Zettelkasten.base]]
->>>>>>> main
