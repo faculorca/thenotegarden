@@ -1,2 +1,0 @@
-![[Templates/Bases/Fiction.base]]
-
