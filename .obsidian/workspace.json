@@ -6,31 +6,9 @@
       {
         "id": "05a190a3a295d032",
         "type": "tabs",
-        "dimension": 56.632247815726764,
         "children": [
           {
-            "id": "4e726a249f01a82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Movie Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Movie Template"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8521092dc390e272",
-        "type": "tabs",
-        "dimension": 43.367752184273236,
-        "children": [
-          {
-            "id": "bbae2c26cb79ee11",
+            "id": "acce13d6eca70f56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -38,8 +16,90 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "6c697cb314951a09",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "RPGs/Mothership/Core Booklets/Mothership 1E - Dead Planet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mothership 1E - Dead Planet"
+            }
+          },
+          {
+            "id": "264bc13a029dcd74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Articles/Mothership.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mothership"
+            }
+          },
+          {
+            "id": "749075d2f0345c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Articles/Estrategia Comunicacional Olivino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estrategia Comunicacional Olivino"
+            }
+          },
+          {
+            "id": "31f6dc071cdc7983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Articles/Meetings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meetings"
+            }
+          },
+          {
+            "id": "babf0a4145dcea3b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Olivino.base",
+                "viewName": "Artículos"
+              },
+              "icon": "lucide-list",
+              "title": "Olivino"
+            }
+          },
+          {
+            "id": "aa7255811728d5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recurrent/Daily/2025-12-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-30"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "c0518743d29d26e1",
@@ -122,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "La Epidemia del Aburrimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for La Epidemia del Aburrimiento"
             }
           },
           {
@@ -182,12 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "La Epidemia del Aburrimiento.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of La Epidemia del Aburrimiento"
             }
           },
           {
@@ -236,44 +299,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbae2c26cb79ee11",
+  "active": "aa7255811728d5d6",
   "lastOpenFiles": [
+    "La Epidemia del Aburrimiento.md",
+    "Recurrent/Daily/2025-12-30.md",
+    "Olivino.base",
+    "References/Articles/Meetings.md",
+    "References/Articles/Mothership.md",
+    "References/Articles/Estrategia Comunicacional Olivino.md",
+    "References/Articles/Olivino.md",
+    "RPGs/Mothership/Core Booklets/derelict-Faust Cherubim Jibril.pdf",
+    "RPGs/Mothership/Core Booklets/Mothership 1E - Dead Planet.pdf",
+    "Templates/Plot Thread Template.md",
+    "Templates/Session Log Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Encounter Template.md",
+    "Templates/Mission Template.md",
+    "Templates/Faction Template.md",
+    "Templates/Cyberpunk Character Template.md",
+    "Templates/Story-Project Template.md",
+    "Templates/Fantasy Character Template.md",
+    "Templates/Scene Template.md",
+    "Templates/Untitled.md",
+    "Templates/Location Template.md",
+    "Templates/Character Template.md",
+    "Templates/Movie Template.md",
     "Templates/Fiction Character Template.md",
     "Ghostwriting/Audios 29-10-2025.md",
     "Ghostwriting/Audios 20-11-2025.md",
     "Ghostwriting",
     "The Obsession That Creates Enduring Companies - David Senra Interview.md",
     "Templates/TTRPG Book Template.md",
-    "Templates/Scene Template.md",
     "Templates/Bases/Name Pool.md",
     "Templates/Bases/Fiction.base",
-    "Stephen King.md",
-    "Slip-Box/Fiction Idea.md",
-    "Scene.md",
-    "Reflexión luego de feria endowment UNAB.md",
-    "References/Configurar un servidor de Minecraft.md",
-    "References/Articles/Story Structure - Dan Wells.md",
-    "References/Articles/Mothership.md",
-    "References/Articles/Dan Wells.md",
-    "References/Articles/Corpo 01.md",
-    "References/Articles/Character.md",
-    "Recurrent/Daily/2025-12-29.md",
-    "Recurrent/Daily/2025-12-28.md",
-    "Recurrent/Daily/2025-12-26.md",
-    "Recurrent/Daily/2025-12-25.md",
-    "Recurrent/Daily/2025-12-22.md",
-    "Recurrent/Daily/2025-12-21.md",
-    "Recurrent/Daily/2025-12-20.md",
-    "Recurrent/Daily/2025-12-13.md",
-    "Recurrent/Daily/2025-12-13 1116.md",
     "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Basic).pdf",
     "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Advanced).pdf",
     "RPGs/Mothership/Utilities/Mothership-Ship-Manifest.pdf",
     "RPGs/Mothership/Utilities",
     "RPGs/Mothership/Core Booklets/Mothership 1E - Wardens Operation Manual.pdf",
-    "RPGs/Mothership/Core Booklets/Mothership 1E - Unconfirmed Contact Reports.pdf",
-    "RPGs/Mothership/Core Booklets/Mothership 1E - ShipBreakers Toolkit.pdf",
-    "RPGs/Mothership/Core Booklets/Mothership 1E - Players Survival Guide.pdf",
     "Longform Writing Projects/Space Campaign/Terminal Space/Scheme.canvas",
     "Attachments/IMG-20251202-WA0038.jpg",
     "Attachments/IMG-20251202-WA0025.jpg",

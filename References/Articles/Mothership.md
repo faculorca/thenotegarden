@@ -25,6 +25,7 @@ url: https://www.tuesdayknightgames.com/pages/mothership-rpg
 ## Utilities
 [[Mothership_Character_Profile_(Basic).pdf]]
 [[Mothership_Character_Profile_(Advanced).pdf]]
+[Derelict Ship Generator for Dead Planet](https://pecios.netlify.app/)
 
 ## Modules
 [[Mothership 1E - Dead Planet.pdf]]

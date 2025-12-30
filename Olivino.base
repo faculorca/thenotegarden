@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasLink(link("Olivino"))
+views:
+  - type: list
+    name: Reuniones
+    filters:
+      and:
+        - file.hasLink("meetings")
+    order:
+      - file.name
+      - categories
+    columnSize:
+      file.name: 303
+  - type: list
+    name: Artículos
+    filters:
+      and:
+        - file.hasLink(link("Articulo"))
