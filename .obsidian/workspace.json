@@ -21,13 +21,14 @@
             "id": "babf0a4145dcea3b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Olivino.base",
-                "viewName": "Artículos"
+                "file": "Recurrent/Daily/2026-01-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "Olivino"
+              "icon": "lucide-file",
+              "title": "2026-01-03"
             }
           },
           {
@@ -244,8 +245,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "763ad75e3aae86ce",
+  "active": "babf0a4145dcea3b",
   "lastOpenFiles": [
+    "Recurrent/Daily/2026-01-03.md",
     "References/Articles/Meetings.md",
     "References/Articles/Dan Wells.md",
     "References/Articles/Mothership.md",
@@ -275,7 +277,6 @@
     "Ghostwriting/Audios 20-11-2025.md",
     "Ghostwriting",
     "The Obsession That Creates Enduring Companies - David Senra Interview.md",
-    "Templates/TTRPG Book Template.md",
     "Templates/Bases/Fiction.base",
     "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Basic).pdf",
     "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Advanced).pdf",
