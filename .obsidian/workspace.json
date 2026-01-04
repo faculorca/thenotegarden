@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recurrent/Daily/2026-01-03.md",
+                "file": "Recurrent/Daily/2026-01-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-03"
+              "title": "2026-01-04"
             }
           },
           {
@@ -251,10 +251,11 @@
   },
   "active": "babf0a4145dcea3b",
   "lastOpenFiles": [
+    "Recurrent/Daily/2026-01-03.md",
+    "Recurrent/Daily/2026-01-04.md",
     "Recurrent/Daily/Harrison Ford.md",
     "Recurrent/Daily/Mothership.md",
     "Recurrent/Daily/Tuesday Knight Studios.md",
-    "Recurrent/Daily/2026-01-03.md",
     "Recurrent/Daily/Haruki Murakami.md",
     "Recurrent/Daily/Blade Runner 2049.md",
     "References/Blade Runner.md",
@@ -276,7 +277,6 @@
     "Templates/Event Template.md",
     "Templates/Encounter Template.md",
     "Templates/Email Template.md",
-    "Templates/Director Template.md",
     "Templates/Bases/Albums.base",
     "Templates/Bases/Everything.base",
     "Templates/Bases/Fiction.base",
