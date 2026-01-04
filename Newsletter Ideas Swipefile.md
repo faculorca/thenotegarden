@@ -15,5 +15,4 @@ last: 2025-11-20
 - technooptimism is dead
 - science fiction is a tool for critical thinking. take responsibility of your own thoughts.
 =======
-- Why you don't want to go to sleep
->>>>>>> main
+

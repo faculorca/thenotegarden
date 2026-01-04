@@ -11,6 +11,8 @@ coordinates:
   - "35.021041"
   - "135.7556075"
 ---
+## Menciones
+![[Everything.base#Mentioned]]
 ## Trips
 
 ![[Trips.base#Location]]

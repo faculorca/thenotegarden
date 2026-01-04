@@ -38,12 +38,6 @@
     "Notes/Ghostwriting Project/Ghostwriting Business.md": {
       "icon": "lucide-ghost"
     },
-    "Templates/Bases/Everything.base": {
-      "icon": "lucide-shopping-basket",
-      "unsynced": [
-        "219d51cdff3ff672"
-      ]
-    },
     "Templates/Bases/Fiction.base": {
       "icon": "lucide-terminal-square",
       "unsynced": [

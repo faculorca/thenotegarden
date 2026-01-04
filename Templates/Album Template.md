@@ -8,4 +8,5 @@ created:
   "{ date }":
 rating:
 ---
-
+## Menciones
+![[Everything.base#Mentioned]]

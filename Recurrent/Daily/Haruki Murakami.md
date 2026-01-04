@@ -3,8 +3,8 @@ categories: "[[People]]"
 type:
   - "[[Authors]]"
 ---
-## Libros
+## Books
 ![[Books.base]]
 
 ## Menciones
-![[Everything.base#Mentioned]]
+![[Everything.base]]

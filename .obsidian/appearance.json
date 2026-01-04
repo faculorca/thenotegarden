@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "[Post] customize tweet backup"
   ],
-  "accentColor": "#85b885"
+  "accentColor": "#85b885",
+  "interfaceFontFamily": "Cascadia Mono"
 }

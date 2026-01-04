@@ -6,17 +6,8 @@
       {
         "id": "05a190a3a295d032",
         "type": "tabs",
+        "dimension": 60.127253446447504,
         "children": [
-          {
-            "id": "acce13d6eca70f56",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
           {
             "id": "babf0a4145dcea3b",
             "type": "leaf",
@@ -32,21 +23,55 @@
             }
           },
           {
-            "id": "aa7255811728d5d6",
+            "id": "29223c893db4f12c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recurrent/Daily/2025-12-30.md",
+                "file": "Recurrent/Daily/Harrison Ford.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "Harrison Ford"
+            }
+          },
+          {
+            "id": "54c3841febc1ad61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recurrent/Daily/Haruki Murakami.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haruki Murakami"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "7f2426e819d1c5b1",
+        "type": "tabs",
+        "dimension": 39.872746553552496,
+        "children": [
+          {
+            "id": "706d9948bee97cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newsletter Ideas Swipefile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Newsletter Ideas Swipefile"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,11 +134,13 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "c0518743d29d26e1",
@@ -247,42 +274,42 @@
   },
   "active": "babf0a4145dcea3b",
   "lastOpenFiles": [
+    "Recurrent/Daily/Harrison Ford.md",
+    "Recurrent/Daily/Mothership.md",
+    "Recurrent/Daily/Tuesday Knight Studios.md",
     "Recurrent/Daily/2026-01-03.md",
-    "References/Articles/Meetings.md",
-    "References/Articles/Dan Wells.md",
-    "References/Articles/Mothership.md",
-    "Recurrent/Daily/2025-12-30.md",
-    "RPGs/Mothership/Core Booklets/Mothership 1E - Dead Planet.pdf",
-    "References/Articles/Estrategia Comunicacional Olivino.md",
-    "La Epidemia del Aburrimiento.md",
-    "Olivino.base",
-    "References/Articles/Olivino.md",
-    "RPGs/Mothership/Core Booklets/derelict-Faust Cherubim Jibril.pdf",
-    "Templates/Plot Thread Template.md",
-    "Templates/Session Log Template.md",
-    "Templates/NPC Template.md",
-    "Templates/Encounter Template.md",
-    "Templates/Mission Template.md",
-    "Templates/Faction Template.md",
-    "Templates/Cyberpunk Character Template.md",
-    "Templates/Story-Project Template.md",
-    "Templates/Fantasy Character Template.md",
-    "Templates/Scene Template.md",
-    "Templates/Untitled.md",
-    "Templates/Location Template.md",
-    "Templates/Character Template.md",
+    "Recurrent/Daily/Haruki Murakami.md",
+    "Recurrent/Daily/Blade Runner 2049.md",
+    "References/Blade Runner.md",
+    "Recurrent/Daily/Cyberpunk 2077.md",
+    "Templates/Newsletter Template.md",
+    "Templates/Music Genre Template.md",
     "Templates/Movie Template.md",
+    "Templates/Movie Genre Template.md",
+    "Templates/Hosting Template.md",
+    "Templates/Ghostwriting Issue.md",
+    "Templates/Genre Template.md",
+    "Templates/Game Studio Template.md",
+    "Templates/Food Template.md",
+    "Templates/Fleeting Note Template.md",
     "Templates/Fiction Character Template.md",
-    "Ghostwriting/Audios 29-10-2025.md",
-    "Ghostwriting/Audios 20-11-2025.md",
-    "Ghostwriting",
-    "The Obsession That Creates Enduring Companies - David Senra Interview.md",
+    "Templates/Fantasy Character Template.md",
+    "Templates/Faction Template.md",
+    "Templates/Evergreen Template.md",
+    "Templates/Event Template.md",
+    "Templates/Encounter Template.md",
+    "Templates/Email Template.md",
+    "Templates/Director Template.md",
+    "Templates/Bases/Albums.base",
+    "Templates/Bases/Everything.base",
     "Templates/Bases/Fiction.base",
-    "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Basic).pdf",
-    "RPGs/Mothership/Utilities/Mothership_Character_Profile_(Advanced).pdf",
-    "RPGs/Mothership/Utilities/Mothership-Ship-Manifest.pdf",
-    "RPGs/Mothership/Utilities",
-    "RPGs/Mothership/Core Booklets/Mothership 1E - Wardens Operation Manual.pdf",
+    "Templates/Bases/Evergreen.base",
+    "Templates/Bases/Events.base",
+    "Templates/Bases/Daily.base",
+    "Templates/Bases/Content Templates.base",
+    "Templates/Bases/Content Template.base",
+    "Templates/Bases/Companies.base",
+    "Templates/Bases/Clippings.base",
     "Longform Writing Projects/Space Campaign/Terminal Space/Scheme.canvas",
     "Attachments/IMG-20251202-WA0038.jpg",
     "Attachments/IMG-20251202-WA0025.jpg",
