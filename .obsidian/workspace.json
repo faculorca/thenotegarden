@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recurrent/Daily/Haruki Murakami.md",
+                "file": "Slip-Box/Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haruki Murakami"
+              "title": "Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945
+    "width": 596.5
   },
   "right": {
     "id": "c0518743d29d26e1",
@@ -248,14 +249,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "babf0a4145dcea3b",
+  "active": "54c3841febc1ad61",
   "lastOpenFiles": [
-    "Recurrent/Daily/2026-01-03.md",
-    "Recurrent/Daily/2026-01-04.md",
+    "Slip-Box/9.1 Marketing is NOT exact science.md",
+    "Slip-Box/7.4 Three reasons why startup hubs work.md",
+    "Slip-Box/1.1c Anti fragile systems are everywhere.md",
+    "Recurrent/Daily/Haruki Murakami.md",
     "Recurrent/Daily/Harrison Ford.md",
+    "Recurrent/Daily/2026-01-04.md",
+    "Recurrent/Daily/2026-01-03.md",
     "Recurrent/Daily/Mothership.md",
     "Recurrent/Daily/Tuesday Knight Studios.md",
-    "Recurrent/Daily/Haruki Murakami.md",
     "Recurrent/Daily/Blade Runner 2049.md",
     "References/Blade Runner.md",
     "Recurrent/Daily/Cyberpunk 2077.md",
@@ -273,9 +277,6 @@
     "Templates/Fantasy Character Template.md",
     "Templates/Faction Template.md",
     "Templates/Evergreen Template.md",
-    "Templates/Event Template.md",
-    "Templates/Encounter Template.md",
-    "Templates/Email Template.md",
     "Templates/Bases/Albums.base",
     "Templates/Bases/Everything.base",
     "Templates/Bases/Fiction.base",
