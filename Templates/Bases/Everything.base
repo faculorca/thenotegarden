@@ -12,3 +12,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Created Recently
+    sort:
+      - property: file.name
+        direction: ASC
