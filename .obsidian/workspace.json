@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slip-Box/Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102.md",
+                "file": "Anne-Laure Le Cunff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102"
+              "title": "Anne-Laure Le Cunff"
             }
           }
         ],
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 596.5
+    "width": 273.5
   },
   "right": {
     "id": "c0518743d29d26e1",
@@ -233,24 +233,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "iconic:Open rulebook": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "random-note:Abrir nota al azar": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "bases:Crear nueva base": false,
+      "iconic:Abrir libro de reglas": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "54c3841febc1ad61",
   "lastOpenFiles": [
+    "Andrew Adriance.md",
+    "Anne-Laure Le Cunff.md",
+    "Audios 20-11-2025.md",
+    "Reference Note.md",
+    "Reflexión luego de feria endowment UNAB.md",
+    "Sam Elsner.md",
+    "Scene.md",
+    "Slip-Box/Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102.md",
+    "Slip-Box/Scientists Are Bad Storytellers.md",
     "Slip-Box/9.1 Marketing is NOT exact science.md",
     "Slip-Box/7.4 Three reasons why startup hubs work.md",
     "Slip-Box/1.1c Anti fragile systems are everywhere.md",
@@ -268,15 +277,6 @@
     "Templates/Movie Template.md",
     "Templates/Movie Genre Template.md",
     "Templates/Hosting Template.md",
-    "Templates/Ghostwriting Issue.md",
-    "Templates/Genre Template.md",
-    "Templates/Game Studio Template.md",
-    "Templates/Food Template.md",
-    "Templates/Fleeting Note Template.md",
-    "Templates/Fiction Character Template.md",
-    "Templates/Fantasy Character Template.md",
-    "Templates/Faction Template.md",
-    "Templates/Evergreen Template.md",
     "Templates/Bases/Albums.base",
     "Templates/Bases/Everything.base",
     "Templates/Bases/Fiction.base",
