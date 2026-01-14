@@ -22,8 +22,22 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "9a788e2fb82af174",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Olivino.base",
+                "viewName": "Reuniones"
+              },
+              "icon": "lucide-list",
+              "title": "Olivino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "763ad75e3aae86ce",
+  "active": "9a788e2fb82af174",
   "lastOpenFiles": [
-    "Recurrent/Daily/2026-01-09.md",
+    "References/Articles/Olivino.md",
+    "Olivino.base",
+    "References/Articles/Estrategia Comunicacional Olivino.md",
     "Home.md",
+    "Recurrent/Daily/2026-01-13.md",
+    "RPGs/Mothership",
+    "RPGs",
+    "Recurrent/Daily/2026-01-09.md",
     "Recurrent/Daily/2026-01-07.md",
     "Recurrent/Daily/2026-01-06.md",
     "Newsletter Ideas Swipefile.md",
@@ -248,19 +268,12 @@
     "Andrew Adriance.md",
     "Audios 20-11-2025.md",
     "Reference Note.md",
-    "Reflexión luego de feria endowment UNAB.md",
-    "Sam Elsner.md",
-    "Scene.md",
-    "Slip-Box/Don't be so cerebral. Randy's Olson Four Organs of Communication. Resonate p102.md",
     "Templates/Bases/Albums.base",
     "Templates/Bases/Fiction.base",
     "Templates/Bases/Evergreen.base",
     "Templates/Bases/Events.base",
     "Templates/Bases/Daily.base",
     "Templates/Bases/Content Templates.base",
-    "Templates/Bases/Content Template.base",
-    "Templates/Bases/Companies.base",
-    "Templates/Bases/Clippings.base",
     "Longform Writing Projects/Space Campaign/Terminal Space/Scheme.canvas",
     "Attachments/IMG-20251202-WA0038.jpg",
     "Attachments/IMG-20251202-WA0025.jpg",
