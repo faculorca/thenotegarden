@@ -1,5 +1,4 @@
 {
-  "autorun": true,
   "folder": "Recurrent/Daily",
   "template": "Templates/Daily Note Template",
   "format": "YYYY-MM-DD"
